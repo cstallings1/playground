@@ -8,7 +8,7 @@ def cat_sit
 		puts "Oh No! Crytal died of old age on your watch."
 		cat_sit
 	elsif cat == "Lucy"
-		turd_time
+		turd_scoop
 	elsif cat == "Punch"
 		puts "Punch is sleeping. Pick another cat"
 		cat_sit
@@ -47,7 +47,7 @@ def bath_time
 	end
 end
 
-def turd_time
+def turd_scoop
 	puts "Enter \"turd\" for every peice of poop you scoop and then enter \"done\": "
 
 	turd = []
