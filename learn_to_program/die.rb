@@ -1,18 +1,24 @@
 class Die
 
-	puts "Roll the die: "
-	set_number = gets.chomp
-
-	def cheat
-		if set_number > "0" || set_number < "7"
-			puts "#{set_number}"
-		else
-			initialize
-		end
-	end
-	
 	def initialize
 		roll
+	end
+
+	def is_invalid_dice(cheat)
+		cheat <= 0 || cheat > 6
+	end
+		
+	def cheat
+
+		begin 
+			print "Set the die: "
+			cheat = gets.chomp.to_i
+			if is_invalid_dice(cheat) 
+				puts "Please use a number between 1 and 6"
+			end
+		end while is_invalid_dice(cheat)
+		@numberShowing = cheat 
+		
 	end
 
 	def roll
@@ -26,4 +32,4 @@ class Die
 
 end
 
-puts Die.new.showing
+puts Die.new.cheat
