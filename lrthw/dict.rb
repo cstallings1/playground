@@ -1,9 +1,9 @@
 module Dict
-	def Dict.new(num_buckets = 256)
+	def Dict.new(num_buckets=256)
 		#Initializes a Dict with the given number of buckets.
 		aDict = []
 		(0...num_buckets).each do |i|
-			a.Dict.push([])
+			aDict.push([])
 		end
 
 		return aDict
@@ -21,7 +21,7 @@ module Dict
 		return aDict[bucket_id]
 	end
 
-	def Dict.get_slot(aDict, key, default = nil)
+	def Dict.get_slot(aDict, key, default=nil)
 		# Returns the index, key, and value of a slot found in a bucket.
 		bucket = Dict.get_bucket(aDict, key)
 
@@ -35,9 +35,9 @@ module Dict
 		return -1, key, default
 	end
 
-	def Dict.get(aDict, key, default = nil)
+	def Dict.get(aDict, key, default=nil)
 		#Gets the value in a bucket for the given key, or the default
-		i, k, v = Dict.get_slot(aDict, key, default = nil)
+		i, k, v = Dict.get_slot(aDict, key, default=default)
 		return v
 	end
 
