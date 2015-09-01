@@ -1,40 +1,26 @@
 class OrangeTree
 
 	def initialize
-		@fruit = 0
-		@age = 0
 		@height = 0
+		@age = 0
 	end
 
-
-
-
-	#private
-
 	def height
-		return @height
+		@height
 	end
 
 	def oneYearPasses
-		while @age < 20 
-			@age = @age + 1	
-		end
-
-		if @height >= 0
-			@height + 3
-		end
+		@age = @age + 1
+		@height = @height + 3
+		return print "age: #{@age} year(s), #{@height} ft"
 	end
 
 end
 
-tree = OrangeTree.new
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
-tree.oneYearPasses
 
-puts @age
+tree = OrangeTree.new
+
+
+puts tree.oneYearPasses
+
+
