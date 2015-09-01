@@ -1,4 +1,6 @@
 require './dict.rb'
+require 'test/unit'
+extend Test::Unit::Assertions
 
 # Create a mapping of state to abbreviation
 states = Dict.new()
@@ -29,7 +31,9 @@ Dict.set(cities, 'OR', 'Portland')
 # puts out some cities
 puts '-' * 10
 puts "NY state has: #{Dict.get(cities, 'NY')}"
+assert_equal("New York", Dict.get(cities, 'NY'))
 puts "OR state has: #{Dict.get(cities, 'OR')}"
+assert_equal("Portland", Dict.get(cities, 'OR'))
 puts "IL state has: #{Dict.get(cities, 'IL')}"
 puts "OH state has: #{Dict.get(cities, 'OH')}"
 
@@ -38,13 +42,15 @@ puts '-' * 10
 puts "Michigan's abbreviation is: #{Dict.get(states, 'Michigan')}"
 puts "Florida's abbreviation is: #{Dict.get(states, 'Florida')}"
 puts "Illinois' abbreviation is: #{Dict.get(states, 'Illinois')}"
+assert_equal("IL", Dict.get(states, "Illinois"))
 puts "Indiana's abbreviation is: #{Dict.get(states, 'Indiana')}"
 
 # do it by using the state then cities dict
 puts '-' * 10
 puts "Michigan has: #{Dict.get(cities, Dict.get(states, 'Michigan'))}"
+assert_equal("Detroit", Dict.get(cities, Dict.get(states, "Michigan")))
 puts "Florida has: #{Dict.get(cities, Dict.get(states, 'Florida'))}"
-puts "Illinois' has: #{Dict.get(cities, Dict.get(states, 'Illinois'))}"
+puts "Illinois has: #{Dict.get(cities, Dict.get(states, 'Illinois'))}"
 puts "Indiana has: #{Dict.get(cities, Dict.get(states, 'Indiana'))}"
 
 # puts every state abbreviation
