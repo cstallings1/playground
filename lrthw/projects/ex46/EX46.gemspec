@@ -13,7 +13,8 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = ['lib/EX46.rb']
-  spec.executables   = ['bin/EX46']
+  spec.executables   = []
+  #spec.executables   = ['bin/EX46']
   spec.test_files    = ['tests/test_EX46.rb']
   spec.require_paths = ["lib"]
 end
