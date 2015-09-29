@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["catiestallings1@gmail.com"]
   spec.summary       = %q{Part of Ex46 in LRTHW}
   spec.description   = %q{I am testing out the skeleton directory template in LRTHW ex46}
-  spec.homepage      = "http://domainforproject.com/"
+  spec.homepage      = "http://rubygems.org/gems/EX46"
   spec.license       = "MIT"
 
   spec.files         = ['lib/EX46.rb']
