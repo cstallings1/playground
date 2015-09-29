@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
+def greeting
  puts "Hello World!"
+end
