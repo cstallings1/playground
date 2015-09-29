@@ -1,0 +1,516 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"the_bridge"
+			],
+			[
+				"cheat",
+				"cheat_code"
+			],
+			[
+				"centr",
+				"central_corridor"
+			],
+			[
+				"central",
+				"central_corridor"
+			],
+			[
+				"star",
+				"start_scene"
+			],
+			[
+				"next",
+				"next_scene"
+			],
+			[
+				"sc",
+				"scene_name"
+			],
+			[
+				"deat",
+				"Death"
+			],
+			[
+				"escap",
+				"escape_pod"
+			],
+			[
+				"The",
+				"TheBridge"
+			],
+			[
+				"laser",
+				"LaserWeaponArmory"
+			],
+			[
+				"centra",
+				"CentralCorridor"
+			],
+			[
+				"scene",
+				"scene_map"
+			],
+			[
+				"op",
+				"opening_scene"
+			],
+			[
+				"ra",
+				"rating"
+			],
+			[
+				"to",
+				"to_sym"
+			],
+			[
+				"to_",
+				"to_i"
+			],
+			[
+				"string",
+				"string_increment"
+			],
+			[
+				"param",
+				"param_names"
+			],
+			[
+				"other",
+				"other_names"
+			],
+			[
+				"class",
+				"class_names"
+			],
+			[
+				"rand",
+				"rand_words"
+			],
+			[
+				"sin",
+				"sing_me_a_song"
+			],
+			[
+				"b",
+				"bulls_on_parade"
+			],
+			[
+				"n",
+				"nesting_depth"
+			],
+			[
+				"block",
+				"block_description"
+			],
+			[
+				"Lira",
+				"Library"
+			],
+			[
+				"cou",
+				"countTheOranges"
+			],
+			[
+				"orang",
+				"orange_count"
+			],
+			[
+				"frui",
+				"fruitBearing"
+			],
+			[
+				"oran",
+				"orangeCount"
+			],
+			[
+				"one",
+				"oneYearPasses"
+			],
+			[
+				"put",
+				"putToBed"
+			],
+			[
+				"stuff",
+				"stuffInIntestine"
+			],
+			[
+				"stu",
+				"stuffInIntestine"
+			],
+			[
+				"stuffI",
+				"stuffInIntestine"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"contact",
+				"contacts"
+			],
+			[
+				"cona",
+				"contact_data"
+			],
+			[
+				"conta",
+				"contact_data"
+			],
+			[
+				"co",
+				"contacts"
+			],
+			[
+				"bucket",
+				"bucket_id"
+			],
+			[
+				"ha",
+				"hash_key"
+			],
+			[
+				"nu",
+				"numberShowing"
+			],
+			[
+				"contc",
+				"contact_data"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"year",
+				"years_old"
+			],
+			[
+				"while",
+				"while_loop"
+			],
+			[
+				"nmb",
+				"numbers_to_subtract"
+			],
+			[
+				"eg",
+				"englishNumber"
+			],
+			[
+				"en",
+				"englishNumber"
+			],
+			[
+				"num",
+				"numString"
+			],
+			[
+				"friend",
+				"friend_status"
+			],
+			[
+				"end",
+				"end_year"
+			],
+			[
+				"start",
+				"start_year"
+			],
+			[
+				"last",
+				"last_message"
+			],
+			[
+				"scree",
+				"screen_names"
+			],
+			[
+				"encryp",
+				"encrypted_string"
+			],
+			[
+				"encrypt",
+				"encrypted_letters"
+			],
+			[
+				"encrypte",
+				"encrypted_string"
+			],
+			[
+				"cipher",
+				"cipher_for_rotation"
+			],
+			[
+				"enc",
+				"encrypted_letter"
+			],
+			[
+				"print",
+				"print_last_word"
+			],
+			[
+				"stri",
+				"string_1"
+			],
+			[
+				"str",
+				"string_2"
+			],
+			[
+				"st",
+				"string_1"
+			],
+			[
+				"Add",
+				"ADDING"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lucy/Documents/playground/lrthw/ex43.rb",
+		"/Users/lucy/Documents/playground/practice_files/euler.rb",
+		"/Users/lucy/Documents/playground/practice_files/movies.rb",
+		"/Users/lucy/Documents/playground/practice_files/oop.rb",
+		"/Users/lucy/Documents/playground/lrthw/gothons_game.rb",
+		"/Users/lucy/Documents/playground/learn_to_program/orange_tree.rb",
+		"/Users/lucy/Documents/playground/lrthw/oop_test.rb",
+		"/Users/lucy/Documents/playground/practice_files/string_increment.rb",
+		"/Users/lucy/Documents/playground/learn_to_program/dragon.rb",
+		"/Users/lucy/Documents/playground/practice_files/string_increment",
+		"/Users/lucy/railsbridge/test_app/config/routes.rb",
+		"/Users/lucy/railsbridge/test_app/Gemfile",
+		"/Users/lucy/Documents/playground/lrthw/ex40.rb",
+		"/Users/lucy/Documents/playground/lrthw/ex41.rb",
+		"/Users/lucy/railsbridge/test_app/test_app",
+		"/Users/lucy/Documents/playground/learn_to_program/logger.rb",
+		"/Users/lucy/Documents/playground/learn_to_program/grandfatherclock.rb",
+		"/Users/lucy/practice.rb",
+		"/Users/lucy/sample.txt",
+		"/Users/lucy/Desktop/library_project/library.rb",
+		"/Users/lucy/Documents/playground/learn_to_program/orange_tree.eb",
+		"/Users/lucy/Documents/playground/lrthw/pet_sit.rb",
+		"/Users/lucy/Documents/playground/Ruby_Practice/kaprekar.rb",
+		"/Users/lucy/Documents/playground/tealeaf/ex14.rb",
+		"/Users/lucy/Documents/playground/lrthw/ex39_test.rb",
+		"/Users/lucy/Documents/playground/lrthw/dict.rb",
+		"/Users/lucy/Documents/playground/lrthw/per_sit.rb",
+		"/Users/lucy/Documents/playground/Ruby_Practice/practice.rb",
+		"/Users/lucy/Documents/playground/tealeaf/solution.rb",
+		"/Users/lucy/Documents/playground/Ruby_Practice/ex1.rb",
+		"/Users/lucy/Documents/playground/tealeaf/ex1.rb",
+		"/Users/lucy/Documents/playground/lrthw/distionary.rb",
+		"/Users/lucy/Documents/playground/learn_to_program/die.rb",
+		"/Users/lucy/Documents/tealeaf/ex1.rb",
+		"/Users/lucy/Documents/lrthw/ex39.rb",
+		"/Users/lucy/Documents/lrthw/ex38.rb",
+		"/Users/lucy/Documents/lrthw/ex35.rb",
+		"/Users/lucy/Documents/learn_to_program/numstring.rb",
+		"/Users/lucy/Documents/lrthw/pet_sit.rb",
+		"/Users/lucy/Documents/learn_to_program/arrays.rb",
+		"/Users/lucy/Documents/learn_to_program/array.rb",
+		"/Users/lucy/Documents/learn_to_program/die.rb",
+		"/Users/lucy/Documents/lrthw/ex34.rb",
+		"/Users/lucy/Documents/lrthw/33.ex",
+		"/Users/lucy/Documents/lrthw/ex33.ex",
+		"/Users/lucy/Documents/lrthw/ex33.rb",
+		"/Users/lucy/Documents/learn_to_program/beer.rb",
+		"/Users/lucy/Documents/Ruby_Practice/palindromes.rb",
+		"/Users/lucy/Documents/Ruby_Practice/birthday.rb",
+		"/Users/lucy/Documents/lrthw/ex32.rb",
+		"/Users/lucy/Documents/lrthw/ex24.rb",
+		"/Users/lucy/Documents/lrthw/31.rb",
+		"/Users/lucy/Documents/lrthw/ex30.rb",
+		"/Users/lucy/Documents/lrthw/ex29.rb",
+		"/Users/lucy/Documents/lrthw/ex28.rb",
+		"/Users/lucy/Documents/jumpstartlab/micro_blogger.rb",
+		"/Users/lucy/Desktop/grandma.rb",
+		"/Users/lucy/Documents/loop_practice/leap_year.rb",
+		"/Users/lucy/Documents/jumpstartlab/encryptor.rb",
+		"/Users/lucy/Desktop/leap_year.rb",
+		"/Users/lucy/Desktop/ex2.rb",
+		"/Users/lucy/Documents/ex1.rb",
+		"/Users/lucy/Documents/lrthw/ex25.rb",
+		"/Users/lucy/Documents/jumpstartlab/sample.txt",
+		"/Users/lucy/Documents/jumpstartlab/encrptor.rb",
+		"/Users/lucy/Documents/lrthw/lrthw",
+		"/Users/lucy/Documents/Devin_Practice/fizzbuzz.rb",
+		"/Users/lucy/Documents/Devin_Practice/loopy.rb",
+		"/Users/lucy/Documents/Devin_Practice/short_long_short.rb",
+		"/Users/lucy/Documents/lrthw/ex21.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current_time",
+			"fruit",
+			"fruitBearing",
+			"fruit",
+			"oranges",
+			"turd_time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 298.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "minimal.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"library.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
