@@ -1,6 +1,9 @@
 require 'sinatra'
+require 'sinatra/reloader'
 
 get '/' do 
-	"Hello World!"
+	"Please place your drink order: "
 end
+
+
 	
